@@ -1,105 +1,74 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,35:312E81,70:155E75,100:06B6D4&height=240&section=header&text=Aakash%20Bogu&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Building%20things%20I%20wish%20existed.&descSize=19&descAlignY=57" width="100%" alt="Aakash Bogu animated gradient banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=8" width="100%" alt=""/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&width=700&lines=AI%2FML+Research+%26+Development;Exploring+Intelligent+Systems;From+Research+to+Real-World+Software;Experiment.+Build.+Make+It+Useful." alt="Animated AI research introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=AI+%2F+ML+RESEARCH+%26+DEVELOPMENT;EXPERIMENTING+WITH+INTELLIGENT+SYSTEMS;BUILDING+THINGS+I+WISH+EXISTED" alt="Animated research and development tagline"/>
 
-<br/><br/>
+# Aakash Bogu
 
-<a href="https://github.com/AakashBogu?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-0F172A?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore repositories"/>
-</a>
-<a href="https://github.com/AakashBogu">
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-312E81?style=for-the-badge&logo=opensourceinitiative&logoColor=FFFFFF" alt="Open source"/>
-</a>
+### Building things I wish existed.
 
-<br/><br/>
+*Researching ideas. Experimenting with intelligence. Engineering useful software.*
 
-<img src="https://komarev.com/ghpvc/?username=AakashBogu&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-AakashBogu-111827?style=flat-square&logo=github)](https://github.com/AakashBogu)
+[![Focus](https://img.shields.io/badge/Focus-AI%20%2F%20ML-4338CA?style=flat-square)](https://github.com/AakashBogu)
+[![Open Source](https://img.shields.io/badge/Building-Open%20Source-0F766E?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://github.com/AakashBogu?tab=repositories)
 
 </div>
 
 ---
 
-<div align="center">
+## 01 / The Person Behind the Code
 
-## ✳ A LITTLE ABOUT ME
-
-*Curiosity is the starting point. Building is how I explore it.*
-
-</div>
-
-I'm Aakash, a Computer Science student exploring **AI/ML Research & Development** and applied artificial intelligence.
+I'm Aakash, a Computer Science student exploring AI/ML Research & Development and applied artificial intelligence.
 
 I enjoy investigating how intelligent systems work, experimenting with machine learning techniques, and turning promising ideas into practical software.
 
-I'm especially interested in the space between research and implementation — where an idea becomes an experiment, an experiment becomes a prototype, and a prototype becomes something people can actually use.
+I'm particularly interested in the space between **research and implementation** — where an idea becomes an experiment, an experiment becomes a working prototype, and a prototype can become something people actually use.
 
-- 🔬 **Research & Development** — exploring AI methods, models, and emerging capabilities.
-- 🧠 **Machine Learning** — working with data, classification, and model evaluation.
-- 🤖 **Applied AI** — turning ideas into useful intelligent applications.
-- 🌐 **Open Source** — building tools that others can explore and improve.
-- 🧪 **Experimentation** — learning by testing, measuring, and iterating.
+My philosophy is simple:
 
-<div align="center">
-
-### "Build what you wish existed."
-
-</div>
+> Don't just imagine better tools. Understand the problem, experiment with solutions, and build them.
 
 ---
 
-## ✦ What I'm Exploring
+## 02 / Areas of Exploration
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>01 / Artificial Intelligence</h3>
+**01 — Artificial Intelligence**
 
-Exploring AI applications, LLM-powered workflows, intelligent agents, and practical automation.
-
-<br/>
-
-<img src="https://img.shields.io/badge/EXPLORE-AI-6366F1?style=flat-square" alt="AI exploration"/>
+Exploring AI applications, intelligent agents, LLM-powered workflows, and practical AI systems.
 
 </td>
 <td width="50%" valign="top">
 
-<h3>02 / Machine Learning</h3>
+**02 — Machine Learning**
 
-Experimenting with data preparation, classification models, model evaluation, and predictive systems.
-
-<br/>
-
-<img src="https://img.shields.io/badge/EXPLORE-ML-0891B2?style=flat-square" alt="Machine learning exploration"/>
+Working with data, classification models, experimentation, and model evaluation.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>03 / Applied Research</h3>
+**03 — Applied AI Research**
 
-Investigating technical approaches, testing ideas, and translating experiments into working prototypes.
-
-<br/>
-
-<img src="https://img.shields.io/badge/APPROACH-EXPERIMENT-0D9488?style=flat-square" alt="Experimentation"/>
+Investigating technical approaches, testing hypotheses, and translating ideas into prototypes.
 
 </td>
 <td width="50%" valign="top">
 
-<h3>04 / Open-Source Engineering</h3>
+**04 — Open-Source Engineering**
 
-Building practical developer tools and exploring how thoughtful software can solve everyday problems.
-
-<br/>
-
-<img src="https://img.shields.io/badge/BUILD-SHARE-7C3AED?style=flat-square" alt="Build and share"/>
+Building useful developer tools and making software easier to explore, understand, and improve.
 
 </td>
 </tr>
@@ -107,138 +76,96 @@ Building practical developer tools and exploring how thoughtful software can sol
 
 ---
 
-## 🚀 Selected Projects
+## 03 / Selected Work
 
-<div align="center">
+*Ideas become interesting when you build them.*
 
-*Ideas are interesting. Working implementations are better.*
+### ◈ AI Video Fact-Checking
 
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>◈ AI Video Fact-Checking</h3>
-
-A browser extension designed to help users evaluate claims in online videos and access relevant fact-checking support.
-
-**Focus**
+A browser extension designed to help people evaluate claims in online videos and access relevant fact-checking support.
 
 `AI` `Browser Extensions` `Information Integrity`
 
-</td>
-<td width="50%" valign="top">
+### ◈ Flickerr
 
-<h3>◈ Flickerr</h3>
+A Python and PySide6 desktop application focused on interface design, browser automation, and practical workflows.
 
-A desktop application built with Python and PySide6, focused on a polished interface and practical browser-automation workflows.
+`Python` `PySide6` `Desktop Engineering`
 
-**Focus**
+### ◈ Octa — AI Tutor
 
-`Python` `PySide6` `Automation`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>◈ Octa — AI Tutor</h3>
-
-An AI tutor concept exploring interactive learning experiences through intelligent assistance.
-
-**Focus**
+An AI tutor concept exploring more interactive and accessible learning experiences.
 
 `AI Applications` `Education` `Intelligent Systems`
 
-</td>
-<td width="50%" valign="top">
+### ◈ Sindhi AI Voice
 
-<h3>◈ Sindhi AI Voice</h3>
-
-Exploring open-source approaches to natural Sindhi text-to-speech and speech technology.
-
-**Focus**
+Exploring open-source approaches to natural Sindhi text-to-speech and speech technology for a low-resource language.
 
 `Speech AI` `Machine Learning` `Language Technology`
 
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-<a href="https://github.com/AakashBogu?tab=repositories">
-<img src="https://img.shields.io/badge/DISCOVER%20ALL%20PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Discover all projects"/>
-</a>
+[**Explore all repositories →**](https://github.com/AakashBogu?tab=repositories)
 
 </div>
 
 ---
 
-## ⚡ My Toolkit
+## 04 / Technical Toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" alt="Programming and development tools"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" alt="Development technologies"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6"/>
 
 </div>
 
 ---
 
-## 📊 The GitHub Dashboard
+## 05 / GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AakashBogu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AakashBogu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashBogu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1" alt="Most-used programming languages"/>
-
-<br/><br/>
-
-<img width="85%" src="https://streak-stats.demolab.com?user=AakashBogu&theme=tokyonight&hide_border=true&background=0B1020&ring=67E8F9&fire=818CF8&currStreakLabel=67E8F9" alt="GitHub contribution streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashBogu&layout=compact&theme=tokyonight&hide_border=true" alt="Programming language statistics"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AakashBogu&bg_color=0B1020&color=CBD5E1&line=67E8F9&point=818CF8&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity"/>
+<img src="https://streak-stats.demolab.com?user=AakashBogu&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🌱 The Direction
+## 06 / The Direction
 
-I'm working toward stronger AI/ML foundations through implementation, experimentation, and continuous learning.
+I'm working toward a deeper understanding of AI and machine learning through implementation, experimentation, and continuous learning.
 
-My goal is to understand the technology deeply enough to build tools that are not only interesting, but genuinely useful.
+The goal isn't to build more software for the sake of it.
 
-I believe the best projects begin with a simple question:
+It's to build software that makes someone think:
 
-**"Why doesn't this exist yet?"**
-
----
+**"I needed this. Now it exists."**
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=67E8F9&center=true&vCenter=true&width=520&lines=RESEARCH.+EXPERIMENT.+BUILD.;MAKE+IDEAS+REAL.;BUILD+WHAT+YOU+WISH+EXISTED." alt="Animated closing statement"/>
+<br/>
 
-<br/><br/>
+### BUILD WHAT YOU WISH EXISTED.
 
-<a href="https://github.com/AakashBogu?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
+[![Explore Projects](https://img.shields.io/badge/Explore%20My%20Work-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AakashBogu?tab=repositories)
 
-<br/><br/>
+<br/>
 
-<sub>Designed around curiosity. Driven by experimentation. Built in public.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:312E81,100:080B1A&height=130&section=footer" width="100%" alt="Animated gradient footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:312E81,100:0B1020&height=100&section=footer" width="100%" alt="Decorative gradient footer"/>
 
 </div>
+
