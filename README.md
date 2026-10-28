@@ -1,81 +1,74 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,100:0891B2&height=230&section=header&text=Aakash%20Bogu&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Building%20things%20I%20wish%20existed.&descSize=18&descAlignY=60" width="100%" alt="Aakash Bogu profile banner"/>
-
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=AI%2FML+Research+%26+Development;Applied+Artificial+Intelligence;Machine+Learning+%7C+Intelligent+Systems;Research.+Experiment.+Build.+Iterate." alt="Animated introduction"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=8" width="100%" alt=""/>
 
 <br/>
 
-<a href="https://github.com/AakashBogu">
-<img src="https://img.shields.io/badge/GitHub-AakashBogu-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
-</a>
-<img src="https://img.shields.io/badge/Focus-AI%2FML%20R%26D-6366F1?style=for-the-badge" alt="AI ML research and development"/>
-<img src="https://img.shields.io/badge/Building-Open%20Source-0D9488?style=for-the-badge" alt="Open source"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=AI+%2F+ML+RESEARCH+%26+DEVELOPMENT;EXPERIMENTING+WITH+INTELLIGENT+SYSTEMS;BUILDING+THINGS+I+WISH+EXISTED" alt="Animated research and development tagline"/>
 
-</div>
-
----
-
-## 🧠 About Me
-
-I'm Aakash, a Computer Science student exploring **Artificial Intelligence and Machine Learning Research & Development**.
-
-I'm interested in understanding how intelligent systems work, experimenting with machine learning techniques, and translating ideas into practical software.
-
-My approach is simple: research a problem, experiment with possible solutions, evaluate the results, and build something useful.
-
-- 🔬 **AI/ML Research & Development** — exploring models, methods, and emerging AI capabilities.
-- 🤖 **Machine Learning** — experimenting with data-driven models and predictive systems.
-- 🧪 **Research & Experimentation** — testing approaches, evaluating results, and learning through iteration.
-- 🛠️ **Applied AI Engineering** — turning ideas and experiments into working applications.
-- 🌐 **Open Source** — building tools and contributing to accessible technology.
-- 🚀 **Long-term vision** — developing useful, reliable, and accessible intelligent systems.
-
-<div align="center">
+# Aakash Bogu
 
 ### Building things I wish existed.
 
-*Research the possibilities. Experiment with ideas. Engineer the solution.*
+*Researching ideas. Experimenting with intelligence. Engineering useful software.*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-AakashBogu-111827?style=flat-square&logo=github)](https://github.com/AakashBogu)
+[![Focus](https://img.shields.io/badge/Focus-AI%20%2F%20ML-4338CA?style=flat-square)](https://github.com/AakashBogu)
+[![Open Source](https://img.shields.io/badge/Building-Open%20Source-0F766E?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://github.com/AakashBogu?tab=repositories)
 
 </div>
 
 ---
 
-## 🔬 Research & Development Interests
+## 01 / The Person Behind the Code
+
+I'm Aakash, a Computer Science student exploring AI/ML Research & Development and applied artificial intelligence.
+
+I enjoy investigating how intelligent systems work, experimenting with machine learning techniques, and turning promising ideas into practical software.
+
+I'm particularly interested in the space between **research and implementation** — where an idea becomes an experiment, an experiment becomes a working prototype, and a prototype can become something people actually use.
+
+My philosophy is simple:
+
+> Don't just imagine better tools. Understand the problem, experiment with solutions, and build them.
+
+---
+
+## 02 / Areas of Exploration
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Artificial Intelligence
+**01 — Artificial Intelligence**
 
-Intelligent applications, AI agents, LLM-based systems, and practical AI workflows.
+Exploring AI applications, intelligent agents, LLM-powered workflows, and practical AI systems.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Machine Learning
+**02 — Machine Learning**
 
-Data preprocessing, model training, classification, evaluation, and experimentation.
+Working with data, classification models, experimentation, and model evaluation.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 AI for Information Integrity
+**03 — Applied AI Research**
 
-Exploring browser-based tools that help users evaluate claims and access relevant evidence.
+Investigating technical approaches, testing hypotheses, and translating ideas into prototypes.
 
 </td>
 <td width="50%" valign="top">
 
-### 🗣️ Speech AI & Language Technology
+**04 — Open-Source Engineering**
 
-Exploring text-to-speech and AI approaches for underrepresented languages such as Sindhi.
+Building useful developer tools and making software easier to explore, understand, and improve.
 
 </td>
 </tr>
@@ -83,69 +76,52 @@ Exploring text-to-speech and AI approaches for underrepresented languages such a
 
 ---
 
-## 🚀 Selected Projects
+## 03 / Selected Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+*Ideas become interesting when you build them.*
 
-### 🔎 AI Video Fact-Checking
+### ◈ AI Video Fact-Checking
 
-A browser extension designed to help users evaluate claims in online videos and access relevant fact-checking support.
+A browser extension designed to help people evaluate claims in online videos and access relevant fact-checking support.
 
-**Focus:** AI · Browser Extensions · Information Integrity
+`AI` `Browser Extensions` `Information Integrity`
 
-</td>
-<td width="50%" valign="top">
+### ◈ Flickerr
 
-### 🖥️ Flickerr
+A Python and PySide6 desktop application focused on interface design, browser automation, and practical workflows.
 
-A Python and PySide6 desktop application focused on a modern interface, browser automation, and practical content workflows.
+`Python` `PySide6` `Desktop Engineering`
 
-**Focus:** Python · Desktop Engineering · Automation
+### ◈ Octa — AI Tutor
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+An AI tutor concept exploring more interactive and accessible learning experiences.
 
-### 🎓 Octa — AI Tutor
+`AI Applications` `Education` `Intelligent Systems`
 
-An AI tutor concept exploring interactive learning experiences powered by intelligent assistance.
+### ◈ Sindhi AI Voice
 
-**Focus:** AI Applications · Education · Intelligent Systems
+Exploring open-source approaches to natural Sindhi text-to-speech and speech technology for a low-resource language.
 
-</td>
-<td width="50%" valign="top">
-
-### 🗣️ Sindhi AI Voice
-
-Exploring open-source approaches to natural Sindhi text-to-speech and speech technology.
-
-**Focus:** Speech AI · Machine Learning · NLP
-
-</td>
-</tr>
-</table>
+`Speech AI` `Machine Learning` `Language Technology`
 
 <div align="center">
 
-*Project descriptions represent ongoing work and exploration. Visit my repositories for available source code and implementation details.*
+[**Explore all repositories →**](https://github.com/AakashBogu?tab=repositories)
 
 </div>
 
 ---
 
-## ⚙️ Technologies & Tools
+## 04 / Technical Toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" alt="Programming and development tools"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" alt="Development technologies"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6"/>
 
@@ -153,47 +129,42 @@ Exploring open-source approaches to natural Sindhi text-to-speech and speech tec
 
 ---
 
-## 📊 GitHub Analytics
+## 05 / GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AakashBogu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AakashBogu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashBogu&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashBogu&layout=compact&theme=tokyonight&hide_border=true" alt="Programming language statistics"/>
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=AakashBogu&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AakashBogu&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
-
 </div>
 
 ---
 
-## 🌱 Current Direction
+## 06 / The Direction
 
-- Deepening my understanding of machine learning and AI engineering.
-- Building and improving practical software projects.
-- Exploring open-source models, tools, and research ideas.
-- Sharing useful work and learning through experimentation.
+I'm working toward a deeper understanding of AI and machine learning through implementation, experimentation, and continuous learning.
 
----
+The goal isn't to build more software for the sake of it.
+
+It's to build software that makes someone think:
+
+**"I needed this. Now it exists."**
 
 <div align="center">
 
-### Research. Experiment. Build. Repeat.
+<br/>
 
-**Building things I wish existed.**
+### BUILD WHAT YOU WISH EXISTED.
 
-<a href="https://github.com/AakashBogu?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Projects-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-</a>
+[![Explore Projects](https://img.shields.io/badge/Explore%20My%20Work-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AakashBogu?tab=repositories)
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:0B1020&height=110&section=footer" width="100%" alt="Gradient footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:312E81,100:0B1020&height=100&section=footer" width="100%" alt="Decorative gradient footer"/>
 
 </div>
